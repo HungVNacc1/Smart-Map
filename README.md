@@ -42,6 +42,6 @@
       </td>
     </tr>
   </table>
-## Muốn trải nghiệm? Truy cập ngay👉[Smartmap](smartmap.ddns.net)
+## Muốn trải nghiệm? Truy cập ngay👉[Smartmap](http://smartmap.ddns.net)
 ### Và nếu bạn thấy dự án chúng tôi hay, bạn có thể donate cho chúng tôi để chúng tôi có thể phát triển dự án một cách ổn định và tốt đẹp hơn!
 **Lưu ý**: Đây là dự án đang trong giai đoạn phát triển và thử nghiệm, nếu có vấn đề gì xin đóng góp tại mục Issues.
