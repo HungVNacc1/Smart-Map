@@ -1,7 +1,7 @@
 # Smart Map
 Đây là dự án bản đồ mã nguồn mở bản nguồn mở tích hợp trợ lý AI dành cho thành phố Đà Nẵng
 ## Giới thiệu
-- Dự án này bắt đầu được lên ý tưởng và xây dựng vào ngày 19/01/2026 bởi hai học sing trường THCS Phan Bội Châu xã Hiệp Đức
+- Dự án này bắt đầu được lên ý tưởng và xây dựng vào ngày 19/01/2026 bởi hai học sinh trường THCS Phan Bội Châu xã Hiệp Đức
 - Dự án này sẽ mang tới cho bạn một bản đồ bao quát toàn bộ thành phố Đà Nẵng và tích hợp thêm trợ lý AI giúp mọi người có thể học tập và tra cứu về thông tin thành phố.
 ## Ngôn ngữ và thư viện
 - Dự án này được xây dựng dựa trên các ngôn ngữ lập trình và ngôn ngữ tự nhiên sau:
